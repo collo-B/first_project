@@ -1,0 +1,144 @@
+* {
+    background-color: whitesmoke;
+    }
+    h1 {
+     font-size: x-large;
+    }
+    .containerme {
+        display: inline;
+        align-items: center;
+        width: 100%;
+    }
+    .schoolname{
+        float: left;
+        width:50%;
+        padding: 5px;
+    }
+    .container {
+    float: right;
+    width:50%;
+    padding: 5px;
+    text-align: right;
+    }
+    .container2 {
+        display: inline;
+        align-items: center;   
+        width: 100%;
+    }
+    .nurturepic {
+        float: left;
+        width:50%;
+        padding: 5px;
+        align-items: baseline;
+    }
+    .nurturepic2 {
+        float: right;
+        width:50%;
+        padding: 5px;
+        align-items: flex-start;
+    }
+    .container3 {
+        display: inline;
+        align-items: center;   
+    }
+    .storypic {
+        float: left;
+        width:50%;
+        padding: 5px; 
+    }
+    .storypic2{
+        float: right;
+        width:50%;
+        padding: 5px;
+    }
+    .ringa {
+        font-size: medium
+    }
+    .container5{
+        display: inline;
+        align-items: center;
+    }
+    .boardpic {
+        float: left;
+        width:50%;
+        padding: 5px;
+    }
+    .boardpic2{
+        float: right;
+        width:50%;
+        padding: 5px;
+    }
+    .container8{
+        display: inline;
+        align-items: center;
+    }
+    .grad {
+        float: left;
+        width:50%;
+        padding: 5px;  
+    }
+    .grad2 {
+        display: inline;
+        float: right;
+        width:50%;
+        padding: 5px;
+    }
+    .mentors {
+        flex-direction: column;
+        float: left;
+        width:10%;
+        padding: 5px;  
+    }
+    .container7 {
+        display: inline;
+        float: left;
+        width:10%;
+        padding: 10px;
+    }
+    .footer{
+        position: relative;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: grey;
+        color: black;
+        text-align: center;
+    }
+    .sure {
+        display: block;
+        float: left;
+        width:50%; 
+    }
+    button.container {
+    color: #EC4067;
+    }
+    .link {
+        background-color: #EC4067;
+        color: white;
+        padding: 5px;
+        margin: 2px;
+        border-radius: 5px;
+    }
+    .nurture {
+        color: #EC4067;
+    }
+    .xplore {
+        background-color: white;
+        color: #EC4067;
+        margin: 5px;
+        border: 10px;
+        border-color: #EC4067;
+    }
+    p.nurturepic {
+    justify-content: center;
+    }
+    .container9 {
+        float: left;
+        width:50%;
+        padding: 5px;  
+    }
+    .cotainer91 {
+        float: right;
+        width:50%;
+        padding: 5px;
+    }
