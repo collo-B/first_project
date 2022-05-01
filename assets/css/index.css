@@ -132,10 +132,12 @@
     justify-content: center;
     }
     .container9 {
+        float: left;
         width:50%;
         padding: 5px;  
     }
     .cotainer91 {
+        float: left;
         width:50%;
         padding: 5px;
     }
