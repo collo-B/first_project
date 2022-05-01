@@ -30,12 +30,14 @@
         width:50%;
         padding: 5px;
         align-items: baseline;
+        height: 100%;
     }
     .nurturepic2 {
         float: right;
         width:50%;
         padding: 5px;
         align-items: flex-start;
+        height: 100%;
     }
     .container3 {
         display: inline;
@@ -45,11 +47,13 @@
         float: left;
         width:50%;
         padding: 5px; 
+        height: 100%;
     }
     .storypic2{
         float: right;
         width:50%;
         padding: 5px;
+        height: 100%;
     }
     .ringa {
         font-size: medium
@@ -62,11 +66,13 @@
         float: left;
         width:50%;
         padding: 5px;
+        height: 100%;
     }
     .boardpic2{
         float: right;
         width:50%;
         padding: 5px;
+        height: 100%;
     }
     .container8{
         display: inline;
@@ -76,33 +82,26 @@
         float: left;
         width:50%;
         padding: 5px;  
+        height: 100%;
     }
     .grad2 {
         display: inline;
         float: right;
-        width:50%;
+        max-width:100vh;
         padding: 5px;
+        height: 100%;
     }
     .mentors {
-        flex-direction: column;
         float: left;
-        width:10%;
-        padding: 5px;  
+        padding: 5px; 
+        max-width: 100vh; 
+        max-height: 100%;
     }
     .container7 {
-        display: inline;
         float: left;
-        width:10%;
+    width:10%;
         padding: 10px;
-    }
-    .footer{
-        position: relative;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        background-color: grey;
-        color: black;
-        text-align: center;
+        max-width: 50vh;
     }
     .sure {
         display: block;
@@ -133,12 +132,17 @@
     justify-content: center;
     }
     .container9 {
-        float: left;
         width:50%;
         padding: 5px;  
     }
     .cotainer91 {
-        float: right;
         width:50%;
         padding: 5px;
     }
+.container6 {
+    display: inline;
+}
+#pp {
+    display: inline;
+    font-size: x-small;
+}
