@@ -141,6 +141,7 @@
     }
 .container6 {
     display: inline;
+    max-width: 25%;
 }
 #pp {
     display: inline;
