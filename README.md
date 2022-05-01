@@ -12,7 +12,7 @@ first moringa independent project
 * Open the index file from the zipped file with any browser.
  ****
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/
+- Click this link to view the live application https://collo-b.github.io/first_project/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
