@@ -147,3 +147,7 @@
     display: inline;
     font-size: x-small;
 }
+.footer{
+    float: right;
+    font-size: larger;
+}
