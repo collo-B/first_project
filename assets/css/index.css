@@ -150,4 +150,5 @@
 .footer{
     float: right;
     font-size: larger;
+    display: block;
 }
