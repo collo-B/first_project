@@ -94,7 +94,7 @@
     .mentors {
         float: left;
         padding: 5px; 
-        max-width: 100vh; 
+        width: 10%; 
         max-height: 100%;
     }
     .container7 {
